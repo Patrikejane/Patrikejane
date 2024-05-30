@@ -39,6 +39,10 @@ These are the skills that either I have tried or I'm using daily
 - make videogames
 - etc...
 
+
+<!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
+<p align="center">
+<a href=""><img src="https://github-readme-stackoverflow.vercel.app/?userID=5033630&theme=dark">
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Patrikejane&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
