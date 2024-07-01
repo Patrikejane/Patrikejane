@@ -3,7 +3,7 @@
 
 I'm Sunimal Malkakulage, originally from Sri Lanka and currently working in Japan.
 
-- 🔭 Im a Developer, currently working on React, C#
+- 🔭 Im a Developer, currently working on React, C#, Java 8/17/21, Spring 2/3
 - 🌱 I’m currently learning Godot Engine, .Net and Really in to AR/VR stuffs
 - 💬 Ask me about Java, Spring, MicroServices, Anugular
 - 🎯 Life Hack: "There is a whole lot more to life than winning"
